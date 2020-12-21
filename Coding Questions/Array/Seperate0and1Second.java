@@ -1,3 +1,5 @@
+// Seperate 0 and 1 in array (two pointer approch)
+
 class Seperate0and1Second{
     static void seprate0and1(int[] arr){
     	int leftIndex=0,rightIndex=arr.length-1;
@@ -22,3 +24,6 @@ class Seperate0and1Second{
 			System.out.print(aa+" ");
 	}
 }
+
+// Time Complexity -> O(N)
+// Space Complexity -> O(1)
