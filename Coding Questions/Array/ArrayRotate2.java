@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class ArrayRotate1{
+class ArrayRotate3{
 
 	static void arrayRotateByd(int[] arr,int n){
 		int temp=arr[0];
