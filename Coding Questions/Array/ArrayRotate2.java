@@ -38,5 +38,3 @@ class ArrayRotate2{
 	}
 }
 
-// Time Complexity -> O(N*d)
-// Space Complexity -> O(1)
